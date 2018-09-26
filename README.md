@@ -12,7 +12,7 @@ O Hospital da Criança contratou os nossos serviços para o desenvolvimento de u
 - Como administrador, gostaria de conseguir inserir, desativar, editar e visualizar com paginação os médicos.
 - Como administrador, gostaria de conseguir inserir, desativar, editar e visualizar com paginação os pacientes.
 - Como médico, gostaria de cadastrar medicamentos para os pacientes.
-- Como paciente, gostaria de agendar exames para um médico.
+- Como paciente, gostaria de agendar exames.
 - Como paciente, gostaria de agendar uma consulta com um médico.
 - Como médico, gostaria de visualizar as consultas para uma determinada data.
 ### Observações:
