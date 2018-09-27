@@ -16,7 +16,7 @@ O Hospital da Criança contratou os nossos serviços para o desenvolvimento de u
 - Como paciente, gostaria de agendar uma consulta com um médico.
 - Como médico, gostaria de visualizar as consultas para uma determinada data.
 ### Observações:
-- Um pacientes pode possuir vários médicos, e um médico pode possuir vários pacientes.
+- Um paciente pode possuir vários médicos, e um médico pode possuir vários pacientes.
 - Um paciente pode cancelar uma consulta em até 24hrs antes da consulta.
 - A API será utilizada tanto para um frontend web como para mobile.
 
